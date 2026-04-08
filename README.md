@@ -49,10 +49,6 @@ Custom models and personas designed to maximize Open-WebUI's feature set.
 3.  Read the localized `README.md` for exact prerequisites, installation steps, and usage examples.
 4.  Paste the provided code or prompt into your Open-WebUI Workspace.
 
-## 🤝 Contributing
-
-Contributions are welcome\! If you have a custom Open-WebUI tool or a highly optimized system prompt, feel free to submit a pull request. Please ensure your submission is housed in its own dedicated folder with a comprehensive `README.md` detailing setup instructions and prerequisites.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
